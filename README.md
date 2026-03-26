@@ -29,9 +29,9 @@ We designed this firewall not just to pass a test, but to be a highly viable, re
    
 ## 📊 Evaluation & Metrics
 Based on our testing against the provided dataset:
-* **Total analyzed:** [PON AQUÍ EL NÚMERO TOTAL]
-* **Accuracy:** [PON AQUÍ EL PORCENTAJE]%
-* **False Positive Rate (FPR):** [PON AQUÍ EL PORCENTAJE]%
+* **Total analyzed:** 16
+* **Accuracy:** 75.00%
+* **False Positive Rate (FPR):** 33.33%
 
 ## 🤖 Uso de IA y Reglas de Participación
 In accordance with the hackathon rules, this team declares the following:
